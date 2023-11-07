@@ -1,0 +1,11 @@
+{
+  "name": "pruebas",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Jhovan Rivera",
+  "license": "ISC"
+}
